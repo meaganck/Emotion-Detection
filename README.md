@@ -1,5 +1,4 @@
 # Reproduction of Detecting Emotions in Text with GloVe Embeddings
-Meagan Choo-Kang
 ## Background
 This project centers on the GloVe model for language representation, which was
 developed by Pennington, Socher, and Manning (2014). The main concept of GloVe is rooted in
